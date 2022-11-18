@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_ex_brick</modelName>
+			<txdName>w_ex_brick</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_me_brick</modelName>
+			<txdName>w_me_brick</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
